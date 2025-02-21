@@ -1,4 +1,4 @@
-# **Understanding Dynamic Programming (DP)**
+# **Understanding Dynamic Programming (DP) ~YASH MALVI**
 
 ## **What is Dynamic Programming?**
 Dynamic Programming (DP) is a **programming technique**, not a data structure. It is used to **optimize recursive solutions** by storing and reusing previously computed results to avoid redundant calculations.
